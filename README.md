@@ -38,13 +38,15 @@ If you want to get FB page page_id, just select *View Source* in your browser, a
 
 ## Pages Scraped
 May be subject to future additions.
-'postimees':'115634898452178',
-'delfi':'183280829317',
-'ohtuleht':'256434472932',
-'paevaleht': '252655727907',
-'eesti ekspress':'159041996650',
-'maaleht': '159041996650',
-'telegram': '452525991463873'
+
+- 'postimees':'115634898452178',
+- 'delfi':'183280829317',
+- 'ohtuleht':'256434472932',
+- 'paevaleht': '252655727907',
+- 'eesti ekspress':'159041996650',
+- 'maaleht': '159041996650',
+- 'telegram': '452525991463873'
 
 ## Credit 
-John Bencina https://github.com/jbencina/facebook-news
+John Bencina http://www.jbencina.com/blog/ 
+
