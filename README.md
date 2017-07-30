@@ -46,4 +46,5 @@ May be subject to future additions.
 'maaleht': '159041996650',
 'telegram': '452525991463873'
 
-
+## Credit 
+John Bencina https://github.com/jbencina/facebook-news
