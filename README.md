@@ -9,7 +9,7 @@ Dataset contains **5250** posts from **6** various news organizations & personal
 
 
 ## Script
-This script loops though a dictionary of Facebook page ids and retrieves the last N posts and up to 100 comments for each post. The results are optionally cached as individual data files and ultimately stored as a set of data frames: one for posts, one for comments. They can be linked by the common post_id field.
+This script (thanx John Bencina) loops though a dictionary of Facebook page ids and retrieves the last N posts and up to 100 comments for each post. The results are optionally cached as individual data files and ultimately stored as a set of data frames: one for posts, one for comments. They can be linked by the common post_id field.
 
 While originally used for news sites, this script can accommodate any Facebook page. One could also loop though the comments to get more than the last 100.
 If you want to get FB page page_id, just select *View Source* in your browser, and make search by *page_id*.
@@ -46,6 +46,10 @@ May be subject to future additions.
 - 'eesti ekspress':'159041996650',
 - 'maaleht': '159041996650',
 - 'telegram': '452525991463873'
+
+## NB!
+Facebook has an anti automation defence, so after some amount is riched, request time will be longer.
+It is possible to scrape individuals pages, and retrieve graph from his friends.
 
 ## Credit 
 John Bencina http://www.jbencina.com/blog/ 
