@@ -7,8 +7,8 @@ SLEEP_TIME_SECONDS = 3 # Cooldown between API requests
 MAX_COMMENTS_PER = 150 # Limit number of comments returned (0-100)
 MAX_POSTS_PER = 1300  # Limit number of posts per page (1-???)
 
-API_ID = '119664095335909'
-API_SECRET = 'b904a3daab20b5592dc368f7d3921a04'
+API_ID = '....'
+API_SECRET = '....'
 
 FB_PAGES = {
 'postimees':'115634898452178',
